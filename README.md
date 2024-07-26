@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
 <h3 align="center">A Undergraduate CSE Student</h3>
 
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Deepakatlearnhattan](https://github.com/Deepakatlearnhattan)
